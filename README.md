@@ -35,7 +35,11 @@ It helps students **find housing**, **book available rooms**, and **match with c
 ## 🛠️ How to Run Locally
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/abhishek-vs/VCU-Student-Housing-Portal.git
+=======
+git clone https://github.com/abhishek-vs/VCU-Student-Housing-Portal.git
+>>>>>>> 23a4ddf34f5d306d28492632a52384562f521b42
 cd VCU-Student-Housing-Portal
 pip install -r requirements.txt
 python app.py
